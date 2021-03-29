@@ -1,0 +1,16 @@
+.Footer_Icon{
+   font-size: 30px;
+   margin:15px;
+   color: #FFFF;
+}
+
+.Footer{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.Footer_Icon:hover{
+    font-size: 32px;
+    color:#ED6464
+}

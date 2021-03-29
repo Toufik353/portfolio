@@ -1,0 +1,47 @@
+.ThirdPage{
+    width:100%;
+    height:100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+
+}
+
+.Heading{
+    font-size: 54px;
+    color: #FFFF;
+    text-align: center;
+}
+
+
+.Skills_Container{
+
+    width:75%;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+}
+p{
+    font-size: 20px;
+    color: #FFFF;
+}
+.Text{
+    color: #FFFF;
+    font-size: 20px;
+    width:45%;
+    margin: auto;
+    text-align: center;
+
+}
+.Title{
+    color: #ED6357;
+    font-weight: 900;
+    font-size: 26px;
+}
+
+.Skills{
+    margin:2% 8%;
+    width:300px;
+    border: 10px sold white;
+}

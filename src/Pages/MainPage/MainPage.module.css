@@ -1,0 +1,39 @@
+.MainPage{
+    display: flex;
+}
+
+.LeftPage{
+    width:90%;
+    height:100vh;
+}
+
+.RightPage{
+    width:10%;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto
+}
+
+
+.Carousel_Button{
+    width:10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color:#1F1F1F;
+    margin: 15px 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #FFFF;
+    box-sizing: border-box;
+}
+
+.Carousel_Button:hover{
+    background-color: #FFFF;
+    border: none;
+    outline: none;
+    /* box-sizing: border-box; */
+}

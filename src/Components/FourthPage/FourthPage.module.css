@@ -1,0 +1,13 @@
+.FourthPage{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Heading{
+    text-align: center;
+    font-size: 54px;
+    color: #FFFF;
+}
